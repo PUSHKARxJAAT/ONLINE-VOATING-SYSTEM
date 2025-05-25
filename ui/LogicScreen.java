@@ -4,6 +4,7 @@ import javax.swing.*;
 import java.awt.event.*;
 
 public class LogicScreen extends JFrame {
+    //method
     public LogicScreen() {
         setTitle("Voting Logic Control");
         setSize(400, 200);
